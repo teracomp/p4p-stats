@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       P4P Download and Form Statistics
  * Plugin URI:        https://github.com/teracomp/p4p-stats
- * Description:       This plugin provides realtime data reporting for free downloads and form-based requests from our website.
+ * Description:       Realtime data reporting for free downloads and form-based requests from our website.
  * Version:           1.0.0
  * Author:            Dave Phillips
  * Author URI:        http://teracomp.net
